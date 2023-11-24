@@ -1,0 +1,25 @@
+body{
+    margin: 20px auto;
+    width: 100%;
+    max-width: 1600px;
+}
+div{
+    width: 40%;
+    max-width: 640px;
+    float: left;
+    margin: 20px;
+    padding: 25px;
+
+    border-top: 2px solid red;
+    border-left: 2px dotted blue;
+    border-bottom: 2px double green;
+    border-right: 2px dotted orange;
+    /* border-color: blue;
+    border-style:double;
+    border-width: 2px; */
+    border-radius: 25px;
+    background-image: url(../../curs2/images/html.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    color: rgb(0, 53, 9);
+}
