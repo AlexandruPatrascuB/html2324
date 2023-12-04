@@ -13,6 +13,8 @@ nav ul{
     width: 100%;
     max-width: 600px;
     margin: auto;
+    font-family: 'Ephesis', cursive;
+
 }
 nav ul li {
     float: left;
